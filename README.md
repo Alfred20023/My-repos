@@ -1,3 +1,4 @@
+https://github.com/Cytificial/AI-email-protection-alert
 # Hercules gateway discovery
 
 A small, standard-library-only Python 3.9+ collector to run inside the existing
